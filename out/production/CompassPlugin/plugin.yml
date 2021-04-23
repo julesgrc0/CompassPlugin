@@ -1,0 +1,4 @@
+name: Compass
+main: com.jules.compass.Compass
+version: 0.0.3
+description: This plugin shows you how many resources (chests, forts, etc...) there are around you when you have a compass in hand.

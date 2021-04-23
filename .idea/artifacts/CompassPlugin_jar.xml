@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompassPlugin:jar">
+    <output-path>$USER_HOME$/OneDrive/Bureau/server/plugins</output-path>
+    <root id="archive" name="CompassPlugin.jar">
+      <element id="module-output" name="CompassPlugin" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/Bureau/spigot-1.9-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
