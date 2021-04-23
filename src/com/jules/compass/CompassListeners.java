@@ -32,7 +32,7 @@ public class CompassListeners implements Listener {
                 {
                     this.listPlayers.remove(pair);
                     this.listPlayers.add(new Pair<Player, Integer>(player,total));
-                    player.sendMessage("Il y a "+total+" coffres ou four dans ce chunk.");
+                    player.sendMessage("There is "+total+" chest or furnace in this chunk.");
                     break;
                 }
             }
